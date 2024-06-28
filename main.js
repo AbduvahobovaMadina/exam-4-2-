@@ -20,9 +20,10 @@
 
 {
     // 3 masala
-    function findQuestionmark(i){
-        return i
-    }
+         function findQuestionmark(str) {
+           return str.indexOf("?")
+        }
+        
     // console.log(findQuestionmark("sal?om"));
 }
 
